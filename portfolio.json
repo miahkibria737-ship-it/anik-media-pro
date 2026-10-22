@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "title": "Social Media Poster",
+      "category": "poster",
+      "image": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?auto=format&fit=crop&w=900&q=80",
+      "description": "প্রমোশনাল পোস্টার — নমুনা"
+    },
+    {
+      "title": "Creative Branding",
+      "category": "logo",
+      "image": "https://images.unsplash.com/photo-1634942536790-253d6f7b8a0b?auto=format&fit=crop&w=900&q=80",
+      "description": "ব্র্যান্ডিং — নমুনা"
+    },
+    {
+      "title": "Campaign Banner",
+      "category": "banner",
+      "image": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?auto=format&fit=crop&w=900&q=80",
+      "description": "ব্যানার ডিজাইন — নমুনা"
+    }
+  ]
+}
